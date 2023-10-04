@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hi, my name is Bai yiyang, and my Github user name is Ilovetheirishbeer
+=======
+Hi, my name is Yiyang Bai, and my Github user name is Iloveirishbeer.
+>>>>>>> e74a8e08d36aaf6d2f3db381464392381a5c1c7e
